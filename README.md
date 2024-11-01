@@ -1,3 +1,5 @@
+![KakaoTalk_20241101_125210418](https://github.com/user-attachments/assets/b6ae8564-5414-4098-a89a-1ff8b614f070)
+
 # 🌌 Welcome to the Han's World
 
 In the heart of the cybernetic city, I code the future. Exploring the realms of technology and art, one line of code at a time.
