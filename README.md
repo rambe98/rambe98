@@ -2,7 +2,6 @@
 
 In the heart of the cybernetic city, I code the future. Exploring the realms of technology and art, one line of code at a time.
 
-![Cyberpunk](https://link-to-your-image.com)
 
 ## 🛠️ Technologies
 - JavaScript | C | C++ | C# | Java
