@@ -2,6 +2,9 @@
 
 In the heart of the cybernetic city, I code the future. Exploring the realms of technology and art, one line of code at a time.
 
+![사이버펑크 이미지](https://images.unsplash.com/photo-1519608487953-e999c86e7455?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fCVFQyU4MiVBQyVFQyU5RCVCNCVFQiVCMiU4NCUyMCVFRCU4RSU5MSVFRCU4MSVBQ3xlbnwwfHwwfHx8MA%3D%3D)
+
+
 
 ## 🛠️ Technologies
 - JavaScript | C | C++ | C# | Java
