@@ -1,7 +1,7 @@
 ![KakaoTalk_20241101_125210418](https://github.com/user-attachments/assets/b6ae8564-5414-4098-a89a-1ff8b614f070)
 
 ## 🛠️ Technologies
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 - JavaScript | C | C++ | C# | Java
 - ReactNative | React | Springboot
 - Unity | Unreal5
