@@ -1,9 +1,8 @@
 ![KakaoTalk_20241101_125210418](https://github.com/user-attachments/assets/b6ae8564-5414-4098-a89a-1ff8b614f070)
 
-[**[포트폴리오 바로가기]**](https://rambe98.github.io/protfolio/)
+[**[포트폴리오 바로가기]**](https://rambe98.github.io/Protfolio/)
 
 ## 🛠️ Technologies
- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
 - JavaScript | C | C++ | C# | Java
 - ReactNative | React | Springboot
 - Gradle | Mysql
