@@ -1,6 +1,6 @@
 ![KakaoTalk_20241101_125210418](https://github.com/user-attachments/assets/b6ae8564-5414-4098-a89a-1ff8b614f070)
 
-[**[포트폴리오 바로가기]**]([https://rambe98.github.io/Protfolio/](https://rambe98.github.io/Portfolio/))
+[**[포트폴리오 바로가기]**](https://rambe98.github.io/Protfolio/)
 
 ## 🛠️ Technologies
 - JavaScript | C | C++ | C# | Java
